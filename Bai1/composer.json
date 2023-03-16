@@ -1,0 +1,8 @@
+{
+    "name": "admin/bai1",
+    "require": {
+        "phpunit/phpunit": "^9.5",
+        "twig/twig": "^3.5",
+        "phpmailer/phpmailer": "^6.8"
+    }
+}

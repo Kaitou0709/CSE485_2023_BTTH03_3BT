@@ -1,0 +1,12 @@
+{
+    "name": "admin/bai2",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Bai2\\": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5",
+        "twig/twig": "^3.5"
+    }
+}
